@@ -1,0 +1,19 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warpcubed/Screeps.git"
+  },
+  "author": "Nicholas Schmitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warpcubed/Screeps/issues"
+  },
+  "homepage": "https://github.com/warpcubed/Screeps#readme"
+}
